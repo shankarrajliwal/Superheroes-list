@@ -19,7 +19,7 @@ datafatching();
 btn.addEventListener("click",()=>{
      let found = false;
     for(let i=0;i<heroes.length;i++){
-        if(heroes[i].name.toLowerCase()===input.value){
+        if(heroes[i].name===input.value){
             photo.src = heroes[i].image;
             sname.textContent = `Name:- ${heroes[i].name}`
             power.textContent = `Superpower:- ${heroes[i].superpowers}`;
