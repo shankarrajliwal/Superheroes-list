@@ -1,0 +1,124 @@
+{
+  "superheroes": [
+    {
+      "name": "superman",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.hSeB4sI6Ip2az9kVek1aygHaO0?pid=Api&P=0&h=180",
+      "superpowers": ["Flight", "Super Strength", "Heat Vision"],
+      "abilities": ["Lift planets", "Super speed", "Invulnerability"]
+    },
+    {
+      "name": "batman",
+      "image": "https://images.hdqwalls.com/wallpapers/batman-mask-man-5p.jpg",
+      "superpowers": ["Intelligence", "Martial Arts"],
+      "abilities": ["Peak human condition", "Expert detective"]
+    },
+    {
+      "name": "spiderman",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.hvwU-UW5DhLVEtq-jB30lQHaE8?pid=Api&P=0&h=180",
+      "superpowers": ["Wall Climbing", "Spider Sense"],
+      "abilities": ["Super agility", "Web shooting"]
+    },
+    {
+      "name": "ironman",
+      "image": "https://images.hdqwalls.com/download/i-am-iron-man-4k-ky-3840x2400.jpg",
+      "superpowers": ["Powered Armor", "Flight"],
+      "abilities": ["Advanced AI", "Weapons tech"]
+    },
+    {
+      "name": "thor",
+      "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1b569469a0daa61cabcc4bdd980499c1.jpg",
+      "superpowers": ["Thunder Control", "God Strength"],
+      "abilities": ["Mjolnir control", "Immortality"]
+    },
+    {
+      "name": "hulk",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.vhJWfX8Xxb_LNnUIMc3wQwHaEJ?pid=Api&P=0&h=180",
+      "superpowers": ["Unlimited Strength"],
+      "abilities": ["Regeneration", "Rage power"]
+    },
+    {
+      "name": "wonderwoman",
+      "image": "https://media.newyorker.com/photos/593581e785bd115baccba6d2/master/w_2560,c_limit/Lane-Ten-Things-about-Wonder-Woman.jpg",
+      "superpowers": ["Super Strength", "Flight"],
+      "abilities": ["Lasso of truth", "Combat skills"]
+    },
+    {
+      "name": "flash",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/02/the-flash-ezra-miller-poster-cropped.jpg",
+      "superpowers": ["Super Speed"],
+      "abilities": ["Time travel", "Speed force"]
+    },
+    {
+      "name": "captainamerica",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.G1AmvEz9JRCx8ThjN8Z9awHaEK?pid=Api&P=0&h=180",
+      "superpowers": ["Enhanced Strength"],
+      "abilities": ["Shield mastery", "Leadership"]
+    },
+    {
+      "name": "blackpanther",
+      "image": "https://wallpaperaccess.com/full/54038.png",
+      "superpowers": ["Enhanced senses"],
+      "abilities": ["Vibranium suit", "Agility"]
+    },
+    {
+      "name": "doctorstrange",
+      "image": "https://images3.alphacoders.com/699/699580.jpg",
+      "superpowers": ["Magic", "Time control"],
+      "abilities": ["Spell casting", "Teleportation"]
+    },
+    {
+      "name": "aquaman",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.boN6bvVKTHSPQgy53nfNuAHaEK?pid=Api&P=0&h=180",
+      "superpowers": ["Water control"],
+      "abilities": ["Talk to sea creatures", "Super strength"]
+    },
+    {
+      "name": "greenlantern",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.T2EKYcMzd3yC2KYurEyw4gHaHa?pid=Api&P=0&h=180",
+      "superpowers": ["Power ring"],
+      "abilities": ["Energy constructs", "Flight"]
+    },
+    {
+      "name": "scarletwitch",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.aHX2CL3DgupERew3kOMFCAHaEK?pid=Api&P=0&h=180",
+      "superpowers": ["Reality manipulation"],
+      "abilities": ["Chaos magic", "Telekinesis"]
+    },
+    {
+      "name": "vision",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/03.-VISION-Hero-Pose.jpg",
+      "superpowers": ["Density control"],
+      "abilities": ["Mind stone power", "Flight"]
+    },
+    {
+      "name": "antman",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.fiH2EUI8NByhTbBDihqZWAHaEK?pid=Api&P=0&h=180",
+      "superpowers": ["Size changing"],
+      "abilities": ["Control ants", "Quantum travel"]
+    },
+    {
+      "name": "wasp",
+      "image": "https://i.pinimg.com/originals/c3/e4/d2/c3e4d26073f35c35cfddf311455c083c.jpg",
+      "superpowers": ["Size change", "Flight"],
+      "abilities": ["Energy blasts"]
+    },
+    {
+      "name": "deadpool",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.THxCYTlyGiTUqTYWew4QdAHaEK?pid=Api&P=0&h=180",
+      "superpowers": ["Regeneration"],
+      "abilities": ["Immortality", "Combat skills"]
+    },
+    {
+      "name": "wolverine",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.kd4imDq88ovPQ7NI_DDm1wHaHa?pid=Api&P=0&h=180",
+      "superpowers": ["Healing factor"],
+      "abilities": ["Adamantium claws", "Enhanced senses"]
+    },
+    {
+      "name": "cyclops",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.x7oi_q7HGtE91DH9xZmm0gHaEO?pid=Api&P=0&h=180",
+      "superpowers": ["Optic blast"],
+      "abilities": ["Energy beams", "Leadership"]
+    }
+  ]
+}
